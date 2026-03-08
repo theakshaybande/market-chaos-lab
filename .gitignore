@@ -1,0 +1,8 @@
+﻿build/
+*.exe
+*.obj
+*.obj.d
+*.a
+*.o
+__pycache__/
+*.pyc
