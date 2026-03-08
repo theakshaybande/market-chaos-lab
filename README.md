@@ -1,4 +1,4 @@
-﻿# market-chaos-lab
+# market-chaos-lab
 
 A C++20 market simulation that models a simple order-driven market where heterogeneous traders interact through a shared limit order book.
 
